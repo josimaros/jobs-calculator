@@ -1,0 +1,15 @@
+{
+  "name": "job_calculator",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "main":"src/server.js",
+  "scripts": {
+    "dev":"nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
